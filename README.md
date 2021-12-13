@@ -5,4 +5,6 @@ A simple forest exploration game which allows the player to move around in a nig
 
 The main focus is to develop an understanding of using OpenGL multiple framebuffer to imitate water reflection.
 
+Tech: OpenGL, C++, Visual Studio
+
 Demo: https://youtu.be/xXt_xQt7Da8
